@@ -24,6 +24,11 @@ public class math {
     public int divide(){
         return this.num1 / this.num2;
 
+
+    }
+    public int exponents(){
+        return (int) Math.exp(this.num2);
+
     }
 
 

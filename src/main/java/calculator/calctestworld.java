@@ -7,5 +7,6 @@ public class calctestworld {
         System.out.println(dacalc.addition());
         System.out.println(dacalc.divide());
         System.out.println(dacalc.subtract());
+        System.out.println(dacalc.exponents());
     }
 }
